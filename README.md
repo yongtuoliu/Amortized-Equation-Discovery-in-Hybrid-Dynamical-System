@@ -12,7 +12,7 @@ Official code of Amortized Equation Discovery in Hybrid Dynamical Systems in ICM
 </div>
 
 <div align=center>
-<img src="asserts/performance.png" style="width:50%;">
+<img src="asserts/performance.png" style="width:100%;">
 </div>
 
 ## 🛠️ Installation
