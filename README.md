@@ -12,7 +12,7 @@ Official code of Amortized Equation Discovery in Hybrid Dynamical Systems in ICM
 </div>
 
 <div align=center>
-<img src="assert/performance.png" style="width:50%;">
+<img src="asserts/performance.png" style="width:50%;">
 </div>
 
 ## 🛠️ Installation
@@ -24,7 +24,7 @@ pip install -r requirements.txt
 
 ### 1. Training Data Preparation
 
-Before training, please download the [datasets](https://drive.google.com/drive/folders/19g7c1a2okoCd_OEt3D-l6nh27nXuNNAA?usp=sharing) and put them in [data](data/). For example, the Mass-spring Hopping dataset has already been put in [data](data/) as a good start.
+Before training, please download the [datasets](https://drive.google.com/drive/folders/19g7c1a2okoCd_OEt3D-l6nh27nXuNNAA?usp=sharing) and put them in [data](data/). The Mass-spring Hopping dataset has already been put in the folder, which is a good start.
 
 ### 2. Training and evaluating AMORE
 
